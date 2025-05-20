@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">
+<p 
 📌 Estudante de <strong>Big Data e Inteligência Analítica</strong><br>
 📌 São Paulo - SP<br>
 📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
