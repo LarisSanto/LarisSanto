@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20repositório!&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20repositório!&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
+](https://camo.githubusercontent.com/4d3b4e783fd73237e09703a255e82b4c7d59de61312fd388085b162324094305/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303046464646266865696768743d3132302673656374696f6e3d686561646572)
+[![Typing SVG](https://readme-typing-svg.demolab.com/Olá👋; Bem-vindo+ao+meu+repositório;First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=90CDF4&center=true&vCenter=true&width=435&lines=Estudante+de+Big+Data+e+Inteligência+Analítica;Apaixonada+por+dados+e+tecnologia!" alt="Typing SVG" />
