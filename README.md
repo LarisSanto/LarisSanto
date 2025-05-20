@@ -1,9 +1,6 @@
-<!-- Capa animada -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Olá%2C%20eu%20sou%20a%20Larissa!&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
-
 
 <!-- Digitação animada -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+o+Larissa;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+o+Larissa;Bem-vindo+ao+meu+perfil!&width=400)](https://git.io/typing-svg)
 
 ---
 
