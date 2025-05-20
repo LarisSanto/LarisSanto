@@ -5,9 +5,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> 👋 Hi, I’m Larissa Santos</h1>
 
 🎓 Estudante de Big Data e Inteligência Analítica 
+
 📍 São Paulo - SP
+
 💡 Apaixonada por dados, aprendizado constante e tecnologia 
+
 🚀 Em transição de carreira da área da saúde para a tecnologia 
+
 📚 Atualmente aprofundando conhecimentos em: 
 &nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados 
 &nbsp;&nbsp;&nbsp;&nbsp;• Ciência de Dados 
