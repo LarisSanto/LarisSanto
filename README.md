@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="URL-DA-IMAGEM-OU-GIF" alt="Capa animada com texto" width="700" />
+  <img src="https://camo.githubusercontent.com/4d3b4e783fd73237e09703a255e82b4c7d59de61312fd388085b162324094305/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303046464646266865696768743d3132302673656374696f6e3d686561646572" alt="Capa animada" width="600" />
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+o+Larissa;Bem-vindo+ao+meu+perfil!&width=400)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>Olá 👋, eu sou a Larissa</b><br>
-  Bem-vindo ao meu perfil!
-</p>
 
 
 ---
