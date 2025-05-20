@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332)
-
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:larissa.santos.silva9902@gmail.com) 
 ---
 
 ### Estatísticas GitHub
