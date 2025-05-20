@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Olá+👋,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&center=true&color=000080&size=30&width=600" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Olá+👋,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&center=true&color=000080&size=30&width=800" alt="Texto animado centralizado" />
 </p>
+
 
 
 ---
