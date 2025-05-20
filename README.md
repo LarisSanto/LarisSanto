@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+o+Larissa;Bem-vindo+ao+meu+perfil!&width=600&color=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+%F0%9F%91%8B,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&center=true&width=600&color=000080&size=30" alt="Typing SVG" />
 </p>
 
 
