@@ -8,12 +8,12 @@
 
 ---
 
-📌 Estudante de **Big Data e Inteligência Analítica**
-📌 Apaixonada por dados, aprendizado constante e tecnologia
-📌 Em transição de carreira da área da saúde para a tecnologia
-📌 Atualmente aprofundando conhecimentos em:
- - Análise de Dados
- - Ciência de Dados
+  📌 Estudante de **Big Data e Inteligência Analítica.
+  📌 Apaixonada por dados, aprendizado constante e tecnologia.
+  📌 Em transição de carreira da área da saúde para a tecnologia.
+  📌 Atualmente aprofundando conhecimentos em:
+   - Análise de Dados
+   - Ciência de Dados
 
 ---
 
