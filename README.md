@@ -7,13 +7,17 @@
 
 
 ---
+
+<p align="center">
+📌 Estudante de <strong>Big Data e Inteligência Analítica</strong><br>
+📌 São Paulo - SP<br>
+📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
+📌 Em transição de carreira da área da saúde para a tecnologia<br>
+📌 Atualmente aprofundando conhecimentos em:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Ciência de Dados
+</p>
  
- 📌 Estudante de **Big Data e Inteligência Analítica.
- 📌 Apaixonada por dados, aprendizado constante e tecnologia.
- 📌 Em transição de carreira da área da saúde para a tecnologia.
- 📌 Atualmente aprofundando conhecimentos em:
-  - Análise de Dados
-  - Ciência de Dados
 
 ---
 
