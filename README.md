@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Olá+%F0%9F%91%8B,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&center=true&color=000080&size=30&width=1000" alt="Texto animado" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Olá+%F0%9F%91%8B,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&center=true&color=000080&size=30&width=1000" alt="Texto animado" />
+  </a>
 </p>
-
 
 
 
