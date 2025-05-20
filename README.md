@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&width=400)](https://git.io/typing-svg)
 
 
--
+--
 
 - 🎓 Estudante de **Big Data e Inteligência Analítica**
 - 💡 Apaixonada por dados, aprendizado constante e tecnologia
@@ -15,7 +15,7 @@
   - Análise de Dados
   - Ciência de Dados
 
--
+--
 
 Tecnologias que estou estudando:
 
@@ -24,14 +24,14 @@ Tecnologias que estou estudando:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
--
+--
 
 Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
--
+--
 
 <!-- Rodapé opcional com gráfico de linguagens -->
 <!-- 
