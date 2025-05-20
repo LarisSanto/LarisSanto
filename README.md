@@ -1,10 +1,9 @@
 <!-- Capa animada -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=200&section=header&text=Olá%2C%20eu%20sou%20a%20Larissa!&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
-](https://camo.githubusercontent.com/4d3b4e783fd73237e09703a255e82b4c7d59de61312fd388085b162324094305/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303046464646266865696768743d3132302673656374696f6e3d686561646572)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Olá%2C%20eu%20sou%20a%20Larissa!&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=35" />
+
+
 <!-- Digitação animada -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D1B2AFF&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+repositório!;Sinta-se+à+vontade+para+explorar+🌟" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+o+Larissa;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
