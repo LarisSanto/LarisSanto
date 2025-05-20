@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+repositório+ ;Aqui+você+acompanha+minha+evolução+na+área+de+dados!" alt="Typing SVG" />
+</p>
+
 <!---
 Larissa-Dos/Larissa Dos Santos is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
