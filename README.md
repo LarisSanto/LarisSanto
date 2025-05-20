@@ -9,6 +9,7 @@
 ---
 
 <p alingn-"
+  
 📌 Estudante de Big Data e Inteligência Analítica<br>
 📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
 📌 Em transição de carreira da área da saúde para a tecnologia<br>
