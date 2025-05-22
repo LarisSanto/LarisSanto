@@ -34,10 +34,22 @@
 
 ---
 
+<!-- Estatísticas GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Larissa-Dos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub" />
+</p>
+
+<!-- Linguagens mais usadas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Dos&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" alt="Linguagens mais usadas" />
+</p>
+
+---
+
 <!-- Contatos -->
 **Contatos:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-dos-santos-silva-11a285332)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
@@ -46,11 +58,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
-
-
-<!-- Rodapé opcional com gráfico de linguagens -->
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Dos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 
