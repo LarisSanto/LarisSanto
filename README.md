@@ -19,7 +19,6 @@
 📌 Em transição de carreira da área da saúde para a tecnologia<br>
 📌 Atualmente aprofundando conhecimentos em:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Ciência de Dados
 </p>
 
 ---
