@@ -37,6 +37,8 @@ Contatos:
 
 ---
 
+![Capa](https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer)
+
 <!-- Rodapé opcional com gráfico de linguagens -->
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Dos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
