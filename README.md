@@ -39,13 +39,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=000000&bg_color=ffffff&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas GitHub" />
-</p>
-
-
 
 ---
 
