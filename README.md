@@ -4,9 +4,7 @@
 </p>
 
 <!-- Texto animado central -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Olá+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!" alt="Texto animado" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D7DE&width=500&height=55&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 ---
 
