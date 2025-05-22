@@ -1,12 +1,12 @@
 <!-- Capa animada superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=header" alt="Capa animada superior" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p>
 
 <!-- Texto animado central -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D7DE&width=500&height=55&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;%3A%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFC0CB&width=500&height=55&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;%3A%29" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,12 +44,5 @@
 
 <!-- Capa animada inferior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=footer" alt="Capa animada inferior" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
-
-
-<!-- Rodapé opcional com gráfico de linguagens -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Dos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
-
