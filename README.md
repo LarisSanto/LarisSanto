@@ -3,7 +3,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B,+eu+sou+a+Larissa;Bem-vindo+ao+meu+perfil!&width=400)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!&width=400)](https://git.io/typing-svg)
 
 
 ---
