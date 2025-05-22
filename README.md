@@ -1,16 +1,17 @@
+<!-- Capa animada superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p>
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!&width=400)](https://git.io/typing-svg)
-
+<!-- Texto animado central -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Olá+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+perfil!" alt="Texto animado" />
+</p>
 
 ---
 
-<p alingn-"
-  
+<!-- Sobre você -->
+<p align="left">
 📌 Estudante de Big Data e Inteligência Analítica<br>
 📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
 📌 Em transição de carreira da área da saúde para a tecnologia<br>
@@ -18,11 +19,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Ciência de Dados
 </p>
- 
 
 ---
 
-Tecnologias que estou estudando:
+<!-- Tecnologias -->
+**Tecnologias que estou estudando:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -31,13 +32,15 @@ Tecnologias que estou estudando:
 
 ---
 
-Contatos:
+<!-- Contatos -->
+**Contatos:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
+<!-- Capa animada inferior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
