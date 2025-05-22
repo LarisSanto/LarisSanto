@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Larissa-Dos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=000000&bg_color=ffffff&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=000000&bg_color=ffffff&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas GitHub" />
 </p>
 
 
