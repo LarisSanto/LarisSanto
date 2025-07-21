@@ -46,3 +46,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C8D4&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
+
