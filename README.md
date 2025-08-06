@@ -51,11 +51,12 @@
 
 ##
  
-<!-- Stats + gráfico de commits lado a lado -->
+<!-- Stats + Streak lado a lado -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_title=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LarisSanto&theme=transparent&hide_border=true&date_format=j/n/Y&currStreakLabel=00FFFF&sideLabels=ff91a4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LarisSanto&hide_border=true&theme=transparent" />
 </p>
+
 
 
 
