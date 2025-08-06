@@ -58,10 +58,6 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=larissantossilva&style=flat&color=00BFFF" alt="Contador de visitantes" />
-</p>
-
 
 
 <!-- Capa animada inferior -->
