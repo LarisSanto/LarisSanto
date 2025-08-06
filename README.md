@@ -17,14 +17,14 @@
 <!-- Sobre você -->
 <p align="left">
 📌 Em transição de carreira da área da saúde para a tecnologia<br>
-📌 Cursando o 2° semestre de Big Data e Inteligência Analítica na Universidade Anhembi Morumbi (UAM)<br>
+📌 Cursando Big Data e Inteligência Analítica na Universidade Anhembi Morumbi (UAM)<br>
 📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!<br>
 📌 Atualmente aprofundando conhecimentos em:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados<br>
 </p>
 
 
-
+--
 
 
 <!-- Tecnologias -->
@@ -36,7 +36,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-
+---
 
 
 <!-- Contatos -->
