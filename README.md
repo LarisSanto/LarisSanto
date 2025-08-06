@@ -11,7 +11,7 @@
 </p>
 
 
----
+
 
 
 <!-- Sobre você -->
@@ -24,7 +24,7 @@
 </p>
 
 
----
+
 
 
 <!-- Tecnologias -->
@@ -36,7 +36,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
----
+
 
 
 <!-- Contatos -->
@@ -46,7 +46,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 
----
+
 
 
 <!-- Capa animada inferior -->
