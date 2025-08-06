@@ -16,7 +16,7 @@
 
 
 
-
+##
 <!-- Sobre você -->
 <p align="left">
 📌 Em transição de carreira da área da saúde para a tecnologia<br>
@@ -31,7 +31,7 @@
 
 
 <!-- Tecnologias -->
-**Tecnologias que estou estudando:**
+##### Tecnologias que estou estudando:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -43,7 +43,7 @@
 
 
 <!-- Contatos -->
-**Contatos:**
+##### Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
@@ -54,7 +54,7 @@
 
 
 
-
+##
 <!-- Capa animada inferior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C8D4&height=120&section=footer" alt="Capa animada inferior" width="1000" />
