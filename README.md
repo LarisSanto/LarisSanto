@@ -14,6 +14,9 @@
 
 
 
+
+
+
 <!-- Sobre você -->
 <p align="left">
 📌 Em transição de carreira da área da saúde para a tecnologia<br>
@@ -24,7 +27,7 @@
 </p>
 
 
----
+
 
 
 <!-- Tecnologias -->
@@ -36,7 +39,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
----
+
 
 
 <!-- Contatos -->
@@ -44,6 +47,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+
+
 
 
 
