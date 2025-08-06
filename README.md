@@ -51,37 +51,6 @@
 
 ##
  
-<!-- GitHub Stats lado a lado -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=00000000" alt="Estatísticas GitHub" />
-</p>
-
-
-.github/workflows/metrics.yml
-name: Metrics
-on:
-  schedule: [{cron: "0 0 * * *"}]  # Atualiza diariamente
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          config_timezone: America/Sao_Paulo
-
-<p align="center">
-  <img src="https://github.com/LarisSanto/LarisSanto/blob/main/metrics.svg" alt="Gráfico de hábitos de commits por hora" />
-</p>
-
-
 
 
 
