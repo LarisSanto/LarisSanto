@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LarisSanto&hide_border=true&stroke=000000&ring=000000&fire=000000" alt="Streak de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LarisSanto&theme=dark&hide_border=true&stroke=000000&ring=000000&fire=000000" alt="Streak de Commits" />
 </p>
 
 
