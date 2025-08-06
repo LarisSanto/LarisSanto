@@ -10,7 +10,7 @@
   </a>
 </p>
 
----
+
 
 <!-- Sobre você -->
 <p align="left">
@@ -21,7 +21,6 @@
 📌 Atualmente aprofundando conhecimentos em:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados<br>
 </p>
 
----
 
 <!-- Tecnologias -->
 **Tecnologias que estou estudando:**
@@ -32,7 +31,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
----
+
 
 <!-- Contatos -->
 **Contatos:**
