@@ -54,10 +54,13 @@
 <!-- GitHub Stats lado a lado -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=00000000" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisSanto&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=00000000" alt="Linguagens mais usadas" />
 </p>
 
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=larissantossilva&style=flat&color=00BFFF" alt="Contador de visitantes" />
+</p>
 
 
 
