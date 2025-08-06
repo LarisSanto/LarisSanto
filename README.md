@@ -59,6 +59,21 @@
 </p>
 
 
+<!-- Contribuições -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00BFFF/LarisSanto" alt="Gráfico de Contribuições por Ano" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LarisSanto&theme=transparent&hide_border=true" alt="Streak de Commits" />
+</p>
+
+<!-- Troféus -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LarisSanto&theme=flat&no-bg=true&no-frame=true&row=1&column=6" alt="Troféus GitHub" />
+</p>
+
 
 
 
