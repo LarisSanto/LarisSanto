@@ -36,12 +36,12 @@
 
 <!-- Estatísticas GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissantossilva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub" />
 </p>
 
 <!-- Linguagens mais usadas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissantossilva&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisSanto&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" alt="Linguagens mais usadas" />
 </p>
 
 
