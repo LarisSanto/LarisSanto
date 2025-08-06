@@ -57,6 +57,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/LarisSanto/LarisSanto/blob/main/metrics.svg" alt="Gráfico de Commits por Hora" />
+</p>
 
 
 
