@@ -54,16 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&count_private=true&hide_border=true&title_color=F7C8D4&icon_color=F7C8D4&text_color=F7C8D4&bg_color=00000000" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisSanto&layout=compact&hide_border=true&title_color=F7C8D4&text_color=F7C8D4&bg_color=00000000" alt="Linguagens mais usadas" />
 </p>
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LarisSanto&theme=transparent&hide_border=true&stroke=000000&ring=000000&fire=000000" alt="Streak de Commits" />
-</p>
-
 
 
 
