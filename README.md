@@ -6,7 +6,7 @@
 <!-- Texto animado central -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7C8D4&width=500&height=55&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;%3A%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&width=500&height=55&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;%3A%29" alt="Typing SVG" />
   </a>
 </p>
 
