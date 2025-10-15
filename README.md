@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p>
 
+<br><br>  <!-- duas quebras de linha -->
+
+
 <!-- Texto animado central -->
 <p align="center">
   <a href="https://git.io/typing-svg">
