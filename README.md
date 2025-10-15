@@ -50,12 +50,13 @@
 
 
 ##
-<div align="center">
-  <img height="180em"
+<p align="center">
+  <img height="180em" style="display:inline-block;"
        src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=00000000" />
-  <img height="180em"
+  <img height="180em" style="display:inline-block;"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisSanto&layout=compact&bg_color=00000000&title_color=000000&text_color=000000&border_color=00000000" />
-</div>
+</p>
+
 
 
 
