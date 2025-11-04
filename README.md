@@ -47,21 +47,10 @@
 <br><br>  <!-- duas quebras de linha -->
 
 
-<br>
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em"
-           src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=00000000" />
-    </td>
-    <td>
-      <img height="180em"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisSanto&layout=compact&bg_color=00000000&title_color=000000&text_color=000000&border_color=00000000" />
-    </td>
-  </tr>
-</table>
+<br clear="both"><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&bg_color=00000000&title_color=000000&text_color=000000&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 
 
