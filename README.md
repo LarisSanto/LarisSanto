@@ -47,18 +47,15 @@
 <br><br>  <!-- duas quebras de linha -->
 
 
-<div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
-       height="160" 
-       alt="Estatísticas do GitHub" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=5&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
-       height="160" 
-       alt="Linguagens mais usadas" 
-  />
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarisSanto/LarisSanto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LarisSanto/LarisSanto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 <br><br>  <!-- duas quebras de linha -->
