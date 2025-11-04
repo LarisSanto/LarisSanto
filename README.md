@@ -78,8 +78,7 @@
 
 
 
-<br><br>  <!-- duas quebras de linha -->
-
+<br> <!-- uma quebra de linha -->
 
 
 
