@@ -28,8 +28,8 @@
 • Análise de Dados
 </p>
 
-<br><br>  <!-- duas quebras de linha -->
 
+<br> <!-- uma quebra de linha -->
 
 
 <!-- Tecnologias -->
@@ -44,7 +44,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-<br><br>  <!-- duas quebras de linha -->
+<br> <!-- uma quebra de linha -->
+
+
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
+       width="460" 
+       height="160" 
+       alt="Estatísticas do GitHub" 
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=5&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
+       width="460" 
+       height="160" 
+       alt="Linguagens mais usadas" 
+  />
+</div>
+
+<br> <!-- uma quebra de linha -->
 
 
 <br clear="both">
@@ -57,18 +75,6 @@
 
 ###
 
-
-<br><br>  <!-- duas quebras de linha -->
-
-
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarisSanto/LarisSanto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LarisSanto/LarisSanto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
