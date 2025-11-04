@@ -24,7 +24,8 @@
 📌 Cursando Big Data e Inteligência Analítica na Universidade Anhembi Morumbi (UAM)<br>
 📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!<br>
-📌 Atualmente aprofundando conhecimentos em:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Análise de Dados<br>
+📌 Atualmente aprofundando conhecimentos em:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Ciência de Dados 
+• Análise de Dados
 </p>
 
 
