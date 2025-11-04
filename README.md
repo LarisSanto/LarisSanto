@@ -47,10 +47,20 @@
 <br><br>  <!-- duas quebras de linha -->
 
 
-<br clear="both"><div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&bg_color=00000000&title_color=000000&text_color=000000&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
+       height="160" 
+       alt="Estatísticas do GitHub" 
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=5&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
+       height="160" 
+       alt="Linguagens mais usadas" 
+  />
 </div>
+
+
 
 
 
