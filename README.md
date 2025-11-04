@@ -47,20 +47,19 @@
 <br> <!-- uma quebra de linha -->
 
 
-<div align="center">
+<p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
-       width="460" 
-       height="160" 
+       width="48%" 
        alt="Estatísticas do GitHub" 
   />
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=5&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
-       width="460" 
-       height="160" 
+       width="48%" 
        alt="Linguagens mais usadas" 
   />
-</div>
+</p>
+
 
 <br> <!-- uma quebra de linha -->
 
