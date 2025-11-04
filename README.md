@@ -20,7 +20,7 @@
 
 <!-- Sobre você -->
 <p align="left">
-📌 Em transição de carreira da área da saúde para a tecnologia<br>
+📌 Em transição para a área de Tecnologia/Dados<br>
 📌 Cursando Big Data e Inteligência Analítica na Universidade Anhembi Morumbi (UAM)<br>
 📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!<br>
