@@ -48,11 +48,11 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/github/0-profile-details.svg" width="60%">
-  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/github/1-repos-per-language.svg" width="29.1%">
+  <div style="display:flex; justify-content:center; gap:12px;">
+    <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/github/0-profile-details.svg" width="55%" style="padding:12px; border-radius:16px; background:#fff; border:1px solid #e5e5e5;">
+    <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/github/1-repos-per-language.svg" width="28%" style="padding:12px; border-radius:16px; background:#fff; border:1px solid #e5e5e5;">
+  </div>
 </p>
-
-
 
 
 
