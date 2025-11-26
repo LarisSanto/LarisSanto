@@ -1,6 +1,3 @@
-minha pagina completa esta assim
-
-
 <!-- Capa animada superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=header" alt="Capa animada superior" width="1000" />
