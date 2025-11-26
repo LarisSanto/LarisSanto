@@ -1,3 +1,6 @@
+minha pagina completa esta assim
+
+
 <!-- Capa animada superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=header" alt="Capa animada superior" width="1000" />
@@ -47,18 +50,7 @@
 <br> <!-- uma quebra de linha -->
 
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=LarisSanto&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
-       width="48%" 
-       alt="Estatísticas do GitHub" 
-  />
-  <img 
-       src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=5&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true"
-       width="48%" 
-       alt="Linguagens mais usadas" 
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" width="48%" alt="Estatísticas do GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=5&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" width="48%" alt="Linguagens mais usadas" /> </p>
 
 
 <br> <!-- uma quebra de linha -->
@@ -86,4 +78,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
-
