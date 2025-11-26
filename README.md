@@ -47,9 +47,13 @@
 <br> <!-- uma quebra de linha -->
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/github/0-profile-details.svg" width="60%">
+  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/github/1-repos-per-language.svg" width="29.1%">
+</p>
 
-![](https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/LarisSanto/LarisSanto/main/profile-summary-card-output/default/1-repos-per-language.svg)
+
+
 
 
 
