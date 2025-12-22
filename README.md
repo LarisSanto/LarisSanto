@@ -17,37 +17,52 @@
 <br>
 
 
-
 <!-- Sobre você -->
-<p align="left">
-📌 Em transição para a área de Tecnologia/Dados<br>
-📌 Cursando Big Data e Inteligência Analítica na Universidade Anhembi Morumbi (UAM)<br>
-📌 Apaixonada por dados, aprendizado constante e tecnologia<br>
-📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!<br>
-📌 Atualmente aprofundando conhecimentos em:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Ciência de Dados 
-• Análise de Dados
+<p align="center">
+Em transição para a área de Dados, com foco em Análise e Ciência de Dados.<br>
+Cursando Big Data e Inteligência Analítica, desenvolvo projetos práticos utilizando Python, SQL e Power BI.<br>
+Interesse em transformar dados em informações relevantes para apoiar decisões e gerar impacto real.
+</p>
+
+
+
+<br>
+
+<!-- Tecnologias -->
+<p align="center">
+<strong>Tecnologias e ferramentas que estou estudando</strong><br><br>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+</p>
+
+<br>
+
+<!-- Contatos -->
+<p align="center">
+<strong>Contatos</strong><br><br>
+
+<a href="https://www.linkedin.com/in/seu-usuario-aqui">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 
 <br> <!-- uma quebra de linha -->
 
 
-<!-- Tecnologias -->
-**Tecnologias e ferramentas que estou estudando**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&hide_title=false&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&v=1" height="150" />
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-
-
-<!-- Contatos -->
-**Contatos:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
-<br> <!-- uma quebra de linha -->
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&v=1" height="150" />
+</div>
 
 
 
