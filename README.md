@@ -19,8 +19,9 @@
 
 <!-- Sobre você -->
 <p align="center">
-Em transição para a área de Dados, com foco em Análise e Ciência de Dados.<br>
-Cursando Big Data e Inteligência Analítica, desenvolvo projetos práticos utilizando Python, SQL e Power BI.<br>
+Analista de Dados em formação | Python • SQL • Estatística<br>
+Sou Analista de Dados em formação, cursando Big Data e Inteligência Analítica.<br>
+Desenvolvo projetos práticos utilizando Python e SQL, trabalhando com limpeza, exploração e análise de dados para gerar insights e apoiar decisões de negócio.<br>
 Interesse em transformar dados em informações relevantes para apoiar decisões e gerar impacto real.
 </p>
 
