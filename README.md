@@ -20,9 +20,9 @@
 <!-- Sobre você -->
 <p align="center">
 Analista de Dados em formação | Python • SQL • Estatística<br>
+  <br>
 Sou Analista de Dados em formação, cursando Big Data e Inteligência Analítica.<br>
-Desenvolvo projetos práticos utilizando Python e SQL, trabalhando com limpeza, exploração e análise de dados para gerar insights e apoiar decisões de negócio.<br>
-Interesse em transformar dados em informações relevantes para apoiar decisões e gerar impacto real.
+Desenvolvo projetos práticos utilizando Python, Power BI e SQL, trabalhando com limpeza, exploração e análise de dados para gerar insights e apoiar decisões de negócio.<br>
 </p>
 
 
