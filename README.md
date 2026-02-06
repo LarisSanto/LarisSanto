@@ -19,10 +19,14 @@
 
 <!-- Sobre você -->
 <p align="center">
-Analista de Dados em formação | Python • SQL • Estatística<br>
+Data Science & Analytics em formação | Python • SQL • Estatística<br>
   <br>
-Sou Analista de Dados em formação, cursando Big Data e Inteligência Analítica.<br>
-Desenvolvo projetos práticos utilizando Python, Power BI e SQL, trabalhando com limpeza, exploração e análise de dados para gerar insights e apoiar decisões de negócio.<br>
+Cursando Big Data e Inteligência Analítica - Anhembi Morumbi.<br>
+Estou me desenvolvendo na área de Dados com foco em:
+- Análise exploratória  
+- Processos de ETL com Pandas  
+- Estatística aplicada  
+- Fundamentos de Machine Learning
 </p>
 
 
@@ -31,7 +35,7 @@ Desenvolvo projetos práticos utilizando Python, Power BI e SQL, trabalhando com
 
 <!-- Tecnologias -->
 <p align="center">
-<strong>Tecnologias e ferramentas que estou estudando</strong><br><br>
+<strong>Tecnologias e ferramentas que estou estudando:</strong><br><br>
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
