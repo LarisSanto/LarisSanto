@@ -20,13 +20,13 @@
 <!-- Sobre você -->
 <p align="center">
 Data Science & Analytics em formação | Python • SQL • Estatística<br>
-  <br>
 Cursando Big Data e Inteligência Analítica - Anhembi Morumbi.<br>
 Estou me desenvolvendo na área de Dados com foco em:
-- Análise exploratória  
-- Processos de ETL com Pandas  
-- Estatística aplicada  
-- Fundamentos de Machine Learning
+    <br>
+• Análise exploratória  
+• Processos de ETL com Pandas  
+• Estatística aplicada  
+• Fundamentos de Machine Learning
 </p>
 
 
@@ -48,7 +48,7 @@ Estou me desenvolvendo na área de Dados com foco em:
 
 <!-- Contatos -->
 <p align="center">
-<strong>Contatos</strong><br><br>
+<strong>Contatos:</strong><br><br>
 
 <a href="https://www.linkedin.com/in/seu-usuario-aqui">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
