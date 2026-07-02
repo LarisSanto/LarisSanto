@@ -40,7 +40,6 @@ Estou me desenvolvendo na área de Dados com foco em:
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Estatística-4B8BBE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </p>
@@ -51,11 +50,11 @@ Estou me desenvolvendo na área de Dados com foco em:
 <p align="center">
 <strong>Contatos:</strong><br><br>
 
-<a href="https://www.linkedin.com/in/seu-usuario-aqui">
+<a href="https://www.linkedin.com/in/laris-santos">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:larissa.santos.silva9902@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
