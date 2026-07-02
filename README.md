@@ -1,6 +1,6 @@
 <!-- Capa animada superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=header" alt="Capa animada superior" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p>
 
 <br>
@@ -64,13 +64,10 @@ Estou me desenvolvendo na área de Dados com foco em:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&hide_title=false&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&v=1" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&v=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&include_all_commits=true&hide_border=true" alt="LarisSanto GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&hide_border=true" alt="LarisSanto Top Languages" />
 </div>
-
-
-
 
 
 <br> <!-- uma quebra de linha -->
@@ -88,13 +85,11 @@ Estou me desenvolvendo na área de Dados com foco em:
 
 
 
-
-
 <br> <!-- uma quebra de linha -->
 
 
 
 <!-- Capa animada inferior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=footer" alt="Capa animada inferior" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
