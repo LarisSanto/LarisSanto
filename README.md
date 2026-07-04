@@ -63,7 +63,11 @@ Estou me desenvolvendo na área de Dados com foco em:
 <br> <!-- uma quebra de linha -->
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=LarisSanto&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph" />
+</p>
 
 
 <br> <!-- uma quebra de linha -->
@@ -89,8 +93,6 @@ Estou me desenvolvendo na área de Dados com foco em:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
-
-
 
 
 
