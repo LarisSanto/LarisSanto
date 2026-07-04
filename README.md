@@ -16,37 +16,41 @@
 
 <br>
 
-
 <!-- Sobre você -->
 <p align="center">
-Data Science & Analytics em formação | Python • SQL • Estatística<br>
-Cursando Big Data e Inteligência Analítica - Anhembi Morumbi.<br>
-Estou me desenvolvendo na área de Dados com foco em:
+Estudante de Engenharia de Dados<br>
+Graduanda em Big Data e Inteligência Analítica - Anhembi Morumbi.<br>
+Focando os estudos em construção e manutenção de pipelines de dados robustos:
     <br>
-• Análise exploratória  
-• Processos de ETL com Pandas  
-• Estatística aplicada  
-• Fundamentos de Machine Learning
+• Modelagem de Dados & Arquitetura SQL   
+• Automação de pipelines ETL/ELT   
+• Infraestrutura, Orquestração & Nuvem (OCI)   
+• Conteinerização (Docker) & Linux   
 </p>
-
 
 
 <br>
 
-<!-- Tecnologias -->
+<!-- Tecnologias (Perfil Engenharia de Dados) -->
 <p align="center">
-<strong>Tecnologias e ferramentas que estou estudando:</strong><br><br>
+<strong>Stack de Engenharia de Dados:</strong><br><br>
 
+<img src="https://img.shields.io/badge/Data Engineering-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<!-- Python: Essencial para automação e scripts -->
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<!-- SQL: O coração do engenheiro de dados -->
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<!-- Docker: Fundamental para ambientes e infraestrutura -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<!-- Pandas: Para transformação de dados (ETL) -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<!-- Cloud (OCI): Onde seus dados vão viver -->
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 <br>
 
-<!-- Contatos -->
+<!-- Contatos (Cores Originais) -->
 <p align="center">
 <strong>Contatos:</strong><br><br>
 
@@ -65,7 +69,7 @@ Estou me desenvolvendo na área de Dados com foco em:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=LarisSanto&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=LarisSanto&locale=pt-br&mode=daily&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph" />
 </p>
 
