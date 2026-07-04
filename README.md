@@ -89,3 +89,8 @@ Estou me desenvolvendo na área de Dados com foco em:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=footer" alt="Capa animada inferior" width="1000" />
 </p>
+
+
+
+
+
