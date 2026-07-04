@@ -63,11 +63,6 @@ Estou me desenvolvendo na área de Dados com foco em:
 <br> <!-- uma quebra de linha -->
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarisSanto&show_icons=true&include_all_commits=true&hide_border=true" alt="LarisSanto GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisSanto&layout=compact&hide_border=true" alt="LarisSanto Top Languages" />
-</div>
 
 
 
