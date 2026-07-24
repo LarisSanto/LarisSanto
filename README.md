@@ -18,15 +18,9 @@
 
 <!-- Sobre você -->
 <p align="center">
-Estudante de Engenharia de Dados<br>
-Graduanda em Big Data e Inteligência Analítica - Anhembi Morumbi.<br>
-Focando os estudos em construção e manutenção de pipelines de dados robustos:
-    <br>
-• Modelagem de Dados & Arquitetura SQL   
-• Automação de pipelines ETL/ELT   
-• Infraestrutura, Orquestração & Nuvem (OCI)   
-• Conteinerização (Docker) & Linux   
-</p>
+Graduanda em Sistemas de Informação - Anhembi Morumbi.<br>
+Focando os estudos em Engenharia de dados.<br> 
+
 
 
 <br>
