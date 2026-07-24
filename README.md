@@ -20,9 +20,12 @@
 <p align="center">
 Graduanda em Sistemas de Informação - Anhembi Morumbi.<br>
 Focando os estudos em Engenharia de dados.<br> 
+Atualmente direciono meus estudos para:
+• Pipelines & ETL
+• Arquitetura & Bancos
+• Infraestrutura & DevOps
 
-
-
+<br>
 <br>
 
 <!-- Tecnologias (Perfil Engenharia de Dados) -->
