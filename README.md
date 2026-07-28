@@ -78,11 +78,6 @@ Atualmente direciono meus estudos para:
   <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LarisSanto&theme=github-compact&hide_border=true&hide_title=true" width="100%" alt="Activity Graph" />
-</p>
-
-
 
 <br> <!-- uma quebra de linha -->
 
