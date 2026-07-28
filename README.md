@@ -28,22 +28,31 @@ Atualmente direciono meus estudos para:
 <br>
 <br>
 
-<!-- Tecnologias (Perfil Engenharia de Dados) -->
 <p align="center">
-<strong>Ferramentas e Tecnologias</strong><br><br>
+  <strong>Ferramentas e Tecnologias</strong><br><br>
 
-<img src="https://img.shields.io/badge/Data Engineering-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-<!-- Python: Essencial para automação e scripts -->
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<!-- SQL: O coração do engenheiro de dados -->
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-<!-- Docker: Fundamental para ambientes e infraestrutura -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<!-- Pandas: Para transformação de dados (ETL) -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<!-- Cloud (OCI): Onde seus dados vão viver -->
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <!-- Data Engineering -->
+  <img src="https://img.shields.io/badge/Data_Engineering-007ACC?style=for-the-badge&logo=data-aip&logoColor=white" />
+  <!-- Python: Essencial para automação e scripts -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <!-- SQL: O coração do engenheiro de dados -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- PostgreSQL: Banco de dados relacional -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Power BI: Visualização e dashboards -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <!-- Docker: Containerização do Airflow e ecossistema -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Apache Airflow: Orquestração do pipeline -->
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <!-- Pandas: Para transformação e tratamento dos dados -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <!-- Cloud (OCI): Infraestrutura em nuvem -->
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <!-- Linux: Ambiente de desenvolvimento via WSL -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 
 <br>
 
