@@ -30,7 +30,7 @@ Atualmente direciono meus estudos para:
 
 <!-- Tecnologias (Perfil Engenharia de Dados) -->
 <p align="center">
-<strong>Stack de Engenharia de Dados:</strong><br><br>
+<strong>Ferramentas e Tecnologias</strong><br><br>
 
 <img src="https://img.shields.io/badge/Data Engineering-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 <!-- Python: Essencial para automação e scripts -->
