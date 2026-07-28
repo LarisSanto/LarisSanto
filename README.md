@@ -73,13 +73,13 @@ Atualmente direciono meus estudos para:
 <br> <!-- uma quebra de linha -->
 
 
-
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LarisSanto&locale=pt-br&mode=daily&theme=graywhite&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=LarisSanto&locale=pt-br&mode=daily&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/LarisSanto/LarisSanto/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LarisSanto&theme=github-compact&hide_border=true&hide_title=true" width="100%" alt="Activity Graph" />
 </p>
 
 
