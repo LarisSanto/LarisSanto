@@ -26,10 +26,14 @@ Atualmente direciono meus estudos para:
 • Infraestrutura & DevOps
 
 <br>
-<br>
+
+
+<br> <!-- uma quebra de linha -->
 
 <p align="center">
-  <strong>Ferramentas e Tecnologias</strong><br><br>
+<strong>Ferramentas e Técnologias:</strong><br><br>
+
+<p align="center">
 
   <!-- Data Engineering -->
   <img src="https://img.shields.io/badge/Data_Engineering-007ACC?style=for-the-badge&logo=data-aip&logoColor=white" />
