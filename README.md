@@ -1,7 +1,4 @@
-<!-- Capa animada superior -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=header" alt="Capa animada superior" width="1000" />
-</p>
+
 
 <br>
 
@@ -85,11 +82,6 @@ Atualmente direciono meus estudos para:
 <br> <!-- uma quebra de linha -->
 
 
-
-<!-- Capa animada inferior -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=343a40&height=120&section=footer" alt="Capa animada inferior" width="1000" />
-</p>
 
 
 
