@@ -50,8 +50,6 @@ Atualmente direciono meus estudos para:
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <!-- Power BI: Visualização e dashboards -->
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <!-- Linux: Ambiente de desenvolvimento via WSL -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 
